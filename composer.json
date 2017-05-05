@@ -1,0 +1,24 @@
+{
+  "name": "gotom/wkhtmltopdf-binary",
+  "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for amd64 systems.",
+  "keywords": [
+    "pdf",
+    "thumbnail",
+    "snapshot",
+    "wkhtmltopdf",
+    "convert",
+    "binary"
+  ],
+  "license": "LGPL Version 3",
+  "homepage": "http://wkhtmltopdf.org/",
+  "authors": [
+    {
+      "name": "Mike Meier",
+      "email": "mike@gotom.io"
+    }
+  ],
+  "bin": [
+    "bin/wkhtmltoimage",
+    "bin/wkhtmltopdf"
+  ]
+}
