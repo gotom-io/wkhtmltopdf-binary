@@ -9,7 +9,7 @@
     "convert",
     "binary"
   ],
-  "license": "LGPL Version 3",
+  "license": "LGPL",
   "homepage": "http://wkhtmltopdf.org/",
   "authors": [
     {
